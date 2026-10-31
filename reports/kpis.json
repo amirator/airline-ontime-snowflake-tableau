@@ -1,0 +1,43 @@
+{
+ "flights": 7001619,
+ "cancelled": 102876,
+ "otp_pct": 77.7,
+ "cancel_rate_pct": 1.47,
+ "delay_cause_share_pct": {
+  "carrier": 32.5,
+  "weather": 6.4,
+  "nas": 21.9,
+  "security": 0.1,
+  "late_aircraft": 39.2
+ },
+ "carriers": 14,
+ "best_carrier": {
+  "name": "Hawaiian Airlines Inc.",
+  "otp_pct": 82.7
+ },
+ "worst_carrier": {
+  "name": "Frontier Airlines Inc.",
+  "otp_pct": 72.1
+ },
+ "worst_month": {
+  "month": "2025-07",
+  "otp_pct": 71.1
+ },
+ "best_month": {
+  "month": "2025-09",
+  "otp_pct": 83.4
+ },
+ "otp_6am_pct": 89.9,
+ "otp_worst_hour": {
+  "hour": 19,
+  "otp_pct": 67.4
+ },
+ "best_airport": {
+  "code": "SLC",
+  "otp_pct": 84.2
+ },
+ "worst_airport": {
+  "code": "DFW",
+  "otp_pct": 71.3
+ }
+}
